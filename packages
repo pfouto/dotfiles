@@ -1,0 +1,41 @@
+##### utils
+
+stow
+zathura
+gtk3
+pulseaudio pulseaudio-alsa pulseaudio-modules-bt pavucontrol
+light
+escrotum-git
+network-manager-applet
+networkmanager
+feh
+imagemagick
+openssh
+bat
+ant-dracula-gtk-theme
+
+#### fonts
+ttf-dejavu
+ttf-jetbrains-mono
+ttf-material-design-icons-git
+noto-fonts-emoji
+ttf-fira-code
+
+i3-gaps
+autorandr
+arandr
+rofi
+i3lock-color
+polybar-git
+dunst
+picom-git
+gnome-terminal
+zsh
+oh-my-zsh-git
+
+
+#### gnome-terminal
+
+#TODO
+
+
